@@ -1,2 +1,2 @@
-# keybase-Client
+# keybase
 Crypto for everyone!
